@@ -1,4 +1,4 @@
-name: Demo vulnerable workflow
+name: Demo vulnerable workflowc
 
 on:
   issues:
